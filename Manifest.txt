@@ -1,0 +1,2 @@
+Main-Class: cmdExec
+Class-Path: libs/jsch-0.1.53.jar libs/jython-standalone-2.7.0.jar
