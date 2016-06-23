@@ -8,6 +8,10 @@ Currently it's not all that super-duper, I only needed it to return numbers, so 
 
 Pull requests and comments welcome.
 
+## Documentation
+
+[docs.mkdir.info](http://docs.mkdir.info/auto-commands/)
+
 ## Usage
 
 Run a Script:
